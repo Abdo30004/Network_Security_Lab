@@ -232,5 +232,4 @@ In short:
 If router and firewall are in the same device (common in home routers), this comparison is different.
 But when they are separate devices, firewall-first is usually the safer design.
 
-Extra note (logic):
 Firewall-first improves filtering and exposure control, but very large DDoS can still saturate the internet link before traffic reaches your firewall.
